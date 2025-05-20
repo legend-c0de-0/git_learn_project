@@ -1,1 +1,2 @@
-# git_learn_project
+# Git_learn_project
+# Instructions
